@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/Merlin_sysadm/merlinlov/releases/download/V1.0.3/MerlinLov.exe",
-  "notes": "Триал, реферальная система, напоминания, трей",
+  "version": "1.0.4",
+  "url": "https://github.com/Merlin-sysadm/merlinlov/releases/download/v1.0.4/MerlinLov.exe",
+  "notes": "Lot verification + kopecks price fix",
   "mandatory": false
 }
